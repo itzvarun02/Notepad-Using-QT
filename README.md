@@ -1,5 +1,5 @@
 
-# NotePad using QT Creatior 8.0.1
+# NotePad using QT Creatior 5.0.4
 
  Notepad is a simple text editor for Ubuntu .
 
@@ -10,7 +10,7 @@ Description: Ubuntu 22.04.1 LTS
 Release: 22.04
 Codename: jammy
 
-Qt --version 8.0.1
+Qt --version 5.0.4
 
 
 ## Qt Creatior Installation For ubuntu 22.0.4
